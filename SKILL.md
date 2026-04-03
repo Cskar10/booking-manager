@@ -1,6 +1,5 @@
 ---
 name: booking-manager
-version: 1.3.2
 description: >
   AI-powered booking manager that connects to any existing booking system and lets
   business owners manage appointments through their phone (Telegram, WhatsApp, etc.). Use when: setting up an AI
@@ -10,9 +9,10 @@ description: >
   SQLite/Turso, MySQL), REST APIs (Calendly, Square, Fresha), Google Sheets, or webhooks.
   Triggers on: "booking assistant", "appointment manager", "manage bookings via phone",
   "AI receptionist", "booking notifications", "salon booking system".
-homepage: https://github.com/Cskar10/booking-manager
-repository: https://github.com/Cskar10/booking-manager
 metadata:
+  version: 1.3.2
+  homepage: https://github.com/Cskar10/booking-manager
+  repository: https://github.com/Cskar10/booking-manager
   openclaw:
     requires:
       config:
